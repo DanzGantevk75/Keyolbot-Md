@@ -18,22 +18,22 @@ global.APIKeys = {
 }
 
 // Owner
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.ownernomer = '6281575886399'
-global.premium = ['6281575886399']
-global.ownername = 'Keyol Keren'
-global.botname = 'Keyolbot-Md'
-global.footer = 'Keyolbot-Md'
-global.email = 'selawikwok@gmail.com'
-global.ig = 'https://instagram.com/shelaaa817'
-global.region = 'Planet China'
+global.owner = ['6288270863279','6288270863279','6288270863279']
+global.ownernomer = '6288270863279'
+global.premium = ['6288270863279']
+global.ownername = 'Danzz.'
+global.botname = 'DanzBot-MD'
+global.footer = 'Danzz.'
+global.email = 'witmawati4@gmail.com'
+global.ig = 'https://instagram.com/DanzGamtenk'
+global.region = 'Planet bekasi'
 
 // Keperluan buttons
 global.myweb = 'https://api-riych.herokuapp.com/'
-global.sc = 'https://github.com/Keyols/Keyolbot-Md'
+global.sc = 'Sc Minta Ma Owner Ngentod'
 
 // Wm
-global.packname = 'Keyolbot-Md'
+global.packname = 'DanzBot-MD'
 global.author = 'WhatsApp Bot Multi-Device'
 
 // Thumb & Image random
